@@ -1,0 +1,20 @@
+
+Suppose you have a CSV file with the data below.
+
+A1: 5, A2: 7, A3: 9, B1: 3, B2: 8, B3: =4+5, C1: =5+A1, C2: =A2+B2, C3: =C2+B3
+
+This can be represented in an excel sheet below:
+
+
+
+I want a program that will take the CSV input above and produce CSV output with the results. If it is a value, 
+then return a value. If it is a formula then calculate the formula and return the value of that formula.
+
+1. How will you tackle the challenge above?
+
+2. What type of errors you would you check for?
+
+3. How might a user break your code?
+
+
+  1. Ans-  we nee

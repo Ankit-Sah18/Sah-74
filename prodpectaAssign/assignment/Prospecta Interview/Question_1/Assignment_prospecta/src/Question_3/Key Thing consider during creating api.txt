@@ -1,0 +1,7 @@
+
+  Some Important Key Thing will be consider during creating API..
+
+  => Make sure people can actually use your API and that it works the first time, try to keep it simple
+     
+   =>  Have to provide Provide language-specific libraries to interface with your service,simplify any necessary signup
+        Provide excellent support.
